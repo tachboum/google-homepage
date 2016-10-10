@@ -1,0 +1,21 @@
+body {background-color: white;
+	font: Helvetic;
+}
+
+header div {
+	display: inline;
+	margin: 10px;
+	float: right;
+}
+
+.logo {display: block;
+	width: 400px;
+	margin: 0 auto;
+	top: 50%;
+	
+	}
+
+footer div {
+	display: inline;
+	margin: 10px;}
+
